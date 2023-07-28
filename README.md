@@ -53,9 +53,11 @@
 
 * [Итоговая работа курса "Linux и программирование на Bash"](https://docs.google.com/document/d/1CjGxmvSPmNKQJybX6Vukz6JQ8K5MmybMijRVSDX8rUg/edit?usp=sharing)
 
+## Иные ссылки:
 
+* [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/AleksinaYuliya/blob/master/Homeworks.md)
 
-
+* [Сертификаты об обучении](https://github.com/7Yuliya/AleksinaYuliya/tree/master/Certificates)
 
 
 ## Контакты:
